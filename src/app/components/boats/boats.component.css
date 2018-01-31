@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+div {
+  background-color: lightgoldenrodyellow;
+  height: 100px;
+  padding:10px 15px 15px 20px;
+}
+
+h1 {
+  background-color: lightgoldenrodyellow;
+  height: 30px;
+  line-height: 1em;
+  padding:10px 5px 15px 20px;
+  margin:0px;
+}
+

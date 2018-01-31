@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+div {
+  background: yellow;
+  height: 2000px;
+  padding:10px 15px 15px 20px;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 18px ;
+}
+
+h1 {
+  height: 30px;
+  line-height: 1em;
+  padding:10px 5px 15px 20px;
+  margin:0px;
+}
+
